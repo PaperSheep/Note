@@ -1,0 +1,51 @@
+#header{background: url("https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1508163112121&di=e12bb55c19ece560df0187292fd271a6&imgtype=0&src=http%3A%2F%2Fimg.redocn.com%2Fsheji%2F20150929%2Fmengxiangzaiqianfanglizhizhanbansheji_4995492.jpg") no-repeat  -2px -77px}
+
+
+
+#mainContent .postBody   h1{
+    background: #2b6695;
+    border-radius: 6px 6px 6px 6px;
+    box-shadow: 0 0 0 1px #5F5A4B, 1px 1px 6px 1px rgba(10, 10, 0, 0.5);
+    color:  #FFFFFF;
+    font-family: "微软雅黑" , "宋体" , "黑体" ,italic;
+    font-size: 20px;
+    font-weight: bold;
+    height: 26px;
+    line-height: 26px;
+    margin: 22px 0 !important;
+    padding: 10px 0 5px 5px;
+    text-shadow: 2px 2px 3px #222222;
+}
+
+
+#mainContent .postBody   h3 {
+    background: #8FCC33;
+    border-radius: 6px 6px 6px 6px;
+    box-shadow: 0 0 0 1px #5F5A4B, 1px 1px 6px 1px rgba(10, 10, 0, 0.5);
+    color: #FFFFFF;
+    font-family: "微软雅黑" , "宋体" , "黑体" ,italic;
+    font-size: 16px;
+    font-weight: bold;
+    height: 24px;
+    line-height: 23px;
+    margin: 12px 0 !important;
+    padding: 5px 0 5px 10px;
+    text-shadow: 2px 2px 3px #222222;
+}
+
+
+
+#mainContent .postBody   h2{
+    background: #6B5EA2;
+    border-radius: 6px 6px 6px 6px;
+    box-shadow: 0 0 0 1px #5F5A4B, 1px 1px 6px 1px rgba(10, 10, 0, 0.5);
+    color: #FFFFFF;
+    font-family: "微软雅黑" , "宋体" , "黑体" ,italic;
+    font-size: 18px;
+    font-weight: bold;
+    height: 25px;
+    line-height: 25px;
+    margin: 18px 0 !important;
+    padding: 8px 0 5px 5px;
+    text-shadow: 2px 2px 3px #222222;
+}
