@@ -38,9 +38,10 @@ def merge_sort(lists):
     return merge(left, right)
 
 
-import random
- 
+import random, time
+start = time.clock()
 lists = random.sample(range(2000000), 1000000)
 # lists = [4,3,7,82,34,1,5,2,36,8,6,75,8,49,1,90,2,301,3,78,42,3,6,7,85]
 result = merge_sort(lists)
-print(result)
+elapsed = (time.clock() - start)
+print("Time used:", elapsed)
